@@ -1,1 +1,1 @@
-/code/1704_Extended Schwartz-Moon Valuation Model-Backup.py For furhter extensions
+code/1706_Extended Schwartz and Moon Valuation Model.py For furhter extensions chatgpt 
